@@ -8,7 +8,7 @@ published: true
 ---
 # Breakfast on the Farm event to be held August 27
 
-![image alt text]({{ site.url }}/public/2BPmh8FrVA1gsGDJoMZEqg_img_0.png)
+![image alt text](/public/2BPmh8FrVA1gsGDJoMZEqg_img_0.png)
 
 *From the **[Breakfast on the Farm Faceboo*k](https://www.facebook.com/Breakfast-on-the-Farm-230229296992631/)* Page:*
 
