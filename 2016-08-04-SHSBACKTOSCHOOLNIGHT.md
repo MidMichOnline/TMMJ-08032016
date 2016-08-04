@@ -8,7 +8,7 @@ published: true
 ---
 # BACK TO SCHOOL CURRICULUM NIGHT with COMPUTER PICK-UP and DINNER (Followed by Varsity Football)
 
-*From the **[Shepherd High Schoo*l](https://www.facebook.com/shepherdmihs/posts/501041053424318)
+From the [Shepherd High School](https://www.facebook.com/shepherdmihs/posts/501041053424318)
 
 MARK YOUR CALENDARS
 
