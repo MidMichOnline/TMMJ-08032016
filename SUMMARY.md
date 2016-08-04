@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-##News
+##Community News
 
 **Village of Shepherd**
 * [Movie Night featuring "Footloose" to be held August 10](2016-08-03-Movie-Night-featuring-“Footloose”-to-be-held-August-10.docx.md)
