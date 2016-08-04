@@ -5,3 +5,6 @@
 * [Deputy Nathan](2016-08-04-Deputy-Nathan.md)
 * [SPD Updates](2016-08-04-SPD-Updates.md)
 * [SHS Back to School Night Scheduled for August 25](2016-08-04-SHSBACKTOSCHOOLNIGHT.md)
+
+##Mid Michigan
+* [News Roundup](2016-08-04-News-Roundup-August-3,-2016.md)
