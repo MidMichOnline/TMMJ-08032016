@@ -1,1 +1,2 @@
-# TMMJ-08032016
+# The Mid Michigan Journal
+## August 4, 2016
