@@ -10,7 +10,7 @@ published: true
 
 # SPD Updates
 
-From the [*Shepherd Police Department*](https://www.facebook.com/permalink.php?story_fbid=1253705261314706&id=205632619455314)
+From the [Shepherd Police Department](https://www.facebook.com/permalink.php?story_fbid=1253705261314706&id=205632619455314)
 
 Good morning everyone! 3 quick things....
 
