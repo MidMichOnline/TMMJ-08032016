@@ -8,7 +8,7 @@ published: true
 ---
 # Deputy Nathan
 
-*From the [Shepherd Police Department](https://www.facebook.com/permalink.php?story_fbid=1253901261295106&id=205632619455314)
+*From the [*Shepherd Police Department*](https://www.facebook.com/permalink.php?story_fbid=1253901261295106&id=205632619455314)
 
 Sorry for another post, but this is just too good to not share...I just Deputized 4-year old Nathan who brought in supplies for the Foster Closet Drive we are having. His mom said that this young man wanted to buy shirts and pants too..."because any kid who needs socks and underwear needs those too."
 
