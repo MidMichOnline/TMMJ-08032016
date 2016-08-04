@@ -6,7 +6,7 @@ permalink: /spd-updates/
 source-id: 1xOi0kcEbbeh_Ln09YAjoTrpxprF1ZRbRw52ngOB9wTo
 published: true
 ---
-**[Shepherd Journa**l](http://shepherdjournal.wordpress.com)
+[Shepherd Journal](http://shepherdjournal.wordpress.com)
 
 # SPD Updates
 
