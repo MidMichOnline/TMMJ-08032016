@@ -20,5 +20,5 @@ Pagels recently researched Shepherd's history while writing the Christian histor
 
 Before becoming an author, Pagels was a psychologist for 25 years. She is originally from Newberry, Michigan.
 
-![image alt text]({{ site.url }}/public/NN1SO6mfVG1foeX4Ht6ZZg_img_1.jpg)
+![image alt text](../public/NN1SO6mfVG1foeX4Ht6ZZg_img_1.jpg)
 
