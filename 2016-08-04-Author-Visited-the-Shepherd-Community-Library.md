@@ -8,7 +8,7 @@ published: true
 ---
 # Author Visited the Shepherd Community Library
 
-![image alt text]({{ site.url }}/public/NN1SO6mfVG1foeX4Ht6ZZg_img_0.jpg)
+![image alt text](../public/NN1SO6mfVG1foeX4Ht6ZZg_img_0.jpg)
 
 *Emily Burhans, Allison Burhans, give author, Carrie Fancett Pagels, a hug during her visit to Shepherd Library on August 1, 2016. *
 
